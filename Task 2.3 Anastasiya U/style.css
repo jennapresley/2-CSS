@@ -1,0 +1,32 @@
+body{
+   background-image: url(images/background.jpg);
+   background-size: cover;
+}
+main{
+   padding-left: 15%;
+   padding-right: 20%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+   background-color: rgba(128, 128, 128, 0.467);
+   text-align: center;
+}
+div{
+   border: solid 3px gray;
+   border-radius: 10px 0 10px 0;
+   padding: 20px;
+   margin-top: 20px;
+}
+h2{
+   color:rgba(234, 157, 14, 0.914);
+   text-align: center;
+}
+div div{
+   text-align: right;
+   border: none;
+}
+a{
+   text-decoration: none;
+   color: rgb(179, 31, 31);
+   font-weight: bold;
+}
